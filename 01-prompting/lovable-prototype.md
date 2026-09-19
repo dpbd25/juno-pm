@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-[_The public Lovable share URL._](https://rocketship-pr-drafts.lovable.app)
+[_The public Lovable share URL._](https://lovable.dev/preview/I7Yetb4CTsr2UVaNnxsxUk078ljTEo5B)
 
 _____
 
