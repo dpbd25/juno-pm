@@ -5,6 +5,7 @@
 ## Prototype link
 
 [_The public Lovable share URL._](https://lovable.dev/preview/I7Yetb4CTsr2UVaNnxsxUk078ljTEo5B)
+a second one : https://claude.ai/artifact/58HpzH93gVehTrweiTqiNu
 
 _____
 
